@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 <!--
 **bryankeating10/bryankeating10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on building my skills in Python, HTML, and GitHub.
+I like writing code to analyze data I come across in everyday life and automate mundane tasks.
+I'm always looking for critisism on my work, and ways to improve my code.
+The best way to reach me is by email at ru.bryankeating@gmail.com
 
-Only line
+
+
