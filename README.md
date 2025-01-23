@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently building my skills in Python, HTML, and GitHub.
+I'm currently building my skills in Python, SQL, MATLAB, HTML, and GitHub.
 I like writing code to analyze data I come across in everyday life and automate mundane tasks.
 I'm always looking for criticism on my work and ways to improve my code.
 The best way to reach me is by email at ru.bryankeating@gmail.com
